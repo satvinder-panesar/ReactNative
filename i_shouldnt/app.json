@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "i shouldn't",
+    "description": "An emotional log for daily temptations"
+  },
+  "name": "i_shouldnt",
+  "displayName": "i_shouldnt"
+}
