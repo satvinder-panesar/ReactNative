@@ -1,0 +1,3 @@
+rootProject.name = 'i_should_cook'
+
+include ':app'
