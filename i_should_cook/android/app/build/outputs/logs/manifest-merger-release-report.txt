@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ea954c49b68acc118be50e751eb6eca5\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\9a2cdcaf1d29936b832a0e67777f74b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\8f51768117c75b4b348b3e2a5c9335d3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\392377a0c211b9d7215946dfa9d45b94\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\fd5ed606b4bd6b0418aa2ddef8bcdd6a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\8a4e0576e8481b0625395e8e8fc8da00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ca607cc5ed47dbde9fb590d175331614\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9579d78d59b361a1c8b11c77a3b16de2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\238fc6ee8f77b658c45a2797fe8654c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\df377a408127555eccf9664fb98a22b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fb9ef0121f162eea69c584065dd13d60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\631f0f4124d19aa5774b0ac636deab7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\668f20a1af4102872355899ffd6bd626\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\10cbc10578d070e529b3a34133f22868\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\43fe97bd792074c2c3ca90ff5447ef2e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\7798f9adc424ce00bea373cd4ecfc059\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\44a17225ffeaa08b01d09f12b3695a82\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f5b2287332833dfdc8b2f52963c17cb1\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\8174e608f2b9ef1a4af5869abe0be585\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffaf5aac6bb121d43a8032e675780bea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34e69ec545866e1e30582159f98a00a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\d22e6b023c4402ff1200d988820b1ace\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\2c72022c6acd728fce0d2aa776c14039\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\e0a2fe0f9447b5aa3e070e659764d959\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\581d94e68d667c125318708667cf1f5e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\51db0efca42e6823f3883f7b7af77d1a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6e18daec0552e745e02388046ecc34e4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\b568845bc10f9099356d8e596e8aef57\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\793dc20527c975052586f14b3799eb45\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4918ac6fb75f88d61e3e90932a1108b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\10233f41a1b54bdbf026059806b90b84\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:6:6-66
+MERGED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:6:23-63
+application
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\8f51768117c75b4b348b3e2a5c9335d3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\8f51768117c75b4b348b3e2a5c9335d3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\392377a0c211b9d7215946dfa9d45b94\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\392377a0c211b9d7215946dfa9d45b94\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\fd5ed606b4bd6b0418aa2ddef8bcdd6a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\fd5ed606b4bd6b0418aa2ddef8bcdd6a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\44a17225ffeaa08b01d09f12b3695a82\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\44a17225ffeaa08b01d09f12b3695a82\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f5b2287332833dfdc8b2f52963c17cb1\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f5b2287332833dfdc8b2f52963c17cb1\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\8174e608f2b9ef1a4af5869abe0be585\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\8174e608f2b9ef1a4af5869abe0be585\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\51db0efca42e6823f3883f7b7af77d1a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\51db0efca42e6823f3883f7b7af77d1a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6e18daec0552e745e02388046ecc34e4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6e18daec0552e745e02388046ecc34e4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\b568845bc10f9099356d8e596e8aef57\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\b568845bc10f9099356d8e596e8aef57\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\10233f41a1b54bdbf026059806b90b84\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\10233f41a1b54bdbf026059806b90b84\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.i_should_cook.MainActivity
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c77dc3a3327dd3aa57c63a93a4407bd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ea954c49b68acc118be50e751eb6eca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ea954c49b68acc118be50e751eb6eca5\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\9a2cdcaf1d29936b832a0e67777f74b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\9a2cdcaf1d29936b832a0e67777f74b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\8f51768117c75b4b348b3e2a5c9335d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\8f51768117c75b4b348b3e2a5c9335d3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\392377a0c211b9d7215946dfa9d45b94\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\392377a0c211b9d7215946dfa9d45b94\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\fd5ed606b4bd6b0418aa2ddef8bcdd6a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\fd5ed606b4bd6b0418aa2ddef8bcdd6a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\8a4e0576e8481b0625395e8e8fc8da00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\8a4e0576e8481b0625395e8e8fc8da00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ca607cc5ed47dbde9fb590d175331614\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ca607cc5ed47dbde9fb590d175331614\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9579d78d59b361a1c8b11c77a3b16de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9579d78d59b361a1c8b11c77a3b16de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\238fc6ee8f77b658c45a2797fe8654c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\238fc6ee8f77b658c45a2797fe8654c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\df377a408127555eccf9664fb98a22b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\df377a408127555eccf9664fb98a22b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fb9ef0121f162eea69c584065dd13d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fb9ef0121f162eea69c584065dd13d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\631f0f4124d19aa5774b0ac636deab7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\631f0f4124d19aa5774b0ac636deab7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\668f20a1af4102872355899ffd6bd626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\668f20a1af4102872355899ffd6bd626\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\10cbc10578d070e529b3a34133f22868\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\10cbc10578d070e529b3a34133f22868\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\43fe97bd792074c2c3ca90ff5447ef2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\43fe97bd792074c2c3ca90ff5447ef2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\7798f9adc424ce00bea373cd4ecfc059\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\7798f9adc424ce00bea373cd4ecfc059\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\44a17225ffeaa08b01d09f12b3695a82\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\44a17225ffeaa08b01d09f12b3695a82\AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\8174e608f2b9ef1a4af5869abe0be585\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\8174e608f2b9ef1a4af5869abe0be585\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffaf5aac6bb121d43a8032e675780bea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffaf5aac6bb121d43a8032e675780bea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34e69ec545866e1e30582159f98a00a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34e69ec545866e1e30582159f98a00a1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\d22e6b023c4402ff1200d988820b1ace\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\d22e6b023c4402ff1200d988820b1ace\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\2c72022c6acd728fce0d2aa776c14039\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\2c72022c6acd728fce0d2aa776c14039\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\e0a2fe0f9447b5aa3e070e659764d959\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\e0a2fe0f9447b5aa3e070e659764d959\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\581d94e68d667c125318708667cf1f5e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\581d94e68d667c125318708667cf1f5e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\51db0efca42e6823f3883f7b7af77d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\51db0efca42e6823f3883f7b7af77d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6e18daec0552e745e02388046ecc34e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6e18daec0552e745e02388046ecc34e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\b568845bc10f9099356d8e596e8aef57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\b568845bc10f9099356d8e596e8aef57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\793dc20527c975052586f14b3799eb45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\793dc20527c975052586f14b3799eb45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4918ac6fb75f88d61e3e90932a1108b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4918ac6fb75f88d61e3e90932a1108b1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\10233f41a1b54bdbf026059806b90b84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\10233f41a1b54bdbf026059806b90b84\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Satvinder\Downloads\i_should_cook\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:17:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\d4dfb3d607ecbde020eb180289076c1a\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Satvinder\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\cb6a03642f7a4db51b633af2e6c7dd90\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Satvinder\Downloads\i_should_cook\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
