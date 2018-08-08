@@ -1,8 +1,14 @@
 import React from 'react';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity, FlatList} from 'react-native';
 import { RNCamera } from 'react-native-camera';
+import MyListItem from './components/MyListItem';
 
 export default class App extends React.Component {
+
+  constructor(){
+    super()
+    this.state={data:['a', 'b','c','d'], extraData:false, }
+  }  
 
    takePicture= () =>{
     const options = {};
@@ -11,6 +17,15 @@ export default class App extends React.Component {
       .then((data) => console.log(data))
       .catch(err => console.error(err));
   }
+
+  _keyExtractor = (item) => item;
+
+  _renderItem = ({item}) => (
+    <MyListItem
+      id = {item}
+      item = {item}
+    />
+  );
 
   render() {   
 
@@ -33,6 +48,12 @@ export default class App extends React.Component {
         >
             <Text style={{fontSize: 14}}> SNAP </Text>
         </TouchableOpacity>
+        <FlatList
+        data={this.state.data}
+        extraData={this.state.extraData}
+        keyExtractor={this._keyExtractor}
+        renderItem={this._renderItem}
+      />
         </View>
       </View>
     );
