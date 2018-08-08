@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Satvinder\\Downloads\\i_should_cook\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/i_should_cook/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\a9bf0e57d4bcee18476ee9f6edeeade8\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b3e5704491cb829891dc50790b09b820/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

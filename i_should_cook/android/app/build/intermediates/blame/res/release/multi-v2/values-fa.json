@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Satvinder\\Downloads\\i_should_cook\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fa\\values-fa.xml",
+            "outputFile": "/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/i_should_cook/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\668f20a1af4102872355899ffd6bd626\\res\\values-fa\\values-fa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4678",
-                        "endColumns": "100",
-                        "endOffsets": "4774"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\d4dfb3d607ecbde020eb180289076c1a\\res\\values-fa\\values.xml",
+                    "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/1cedbccdc8e26fce87c3e6f0bf0257b1/res/values-fa/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.1.aar\\cb6a03642f7a4db51b633af2e6c7dd90\\res\\values-fa\\values.xml",
+                    "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/43a973038559e3c0cdbbcfccb8a9593e/res/values-fa/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ea954c49b68acc118be50e751eb6eca5\\res\\values-fa\\values-fa.xml",
+                    "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/2a19a6e9a1b07a621d2627d010499a77/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4678",
+                        "endColumns": "100",
+                        "endOffsets": "4774"
+                    }
+                },
+                {
+                    "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/b3e5704491cb829891dc50790b09b820/res/values-fa/values-fa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
