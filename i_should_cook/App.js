@@ -10,12 +10,12 @@ export default class App extends React.Component {
     this.state={data:['a', 'b','c','d'], extraData:false, }
   }  
 
-   takePicture= () =>{
-    const options = {};
-    //options.location = ...
-    this.camera.capture({metadata: options})
-      .then((data) => console.log(data))
-      .catch(err => console.error(err));
+  async takePicture() {
+    if (this.camera) {
+      const options = { quality: 0.5, base64: true };
+      const data = await this.camera.takePictureAsync(options)
+      alert(data.uri);
+    }
   }
 
   _keyExtractor = (item) => item;
@@ -27,7 +27,7 @@ export default class App extends React.Component {
     />
   );
 
-  render() {   
+  render() {  
 
     return (
       <View style={styles.container}>
@@ -43,7 +43,7 @@ export default class App extends React.Component {
         />
         <View style={{flex: 0, flexDirection: 'row', justifyContent: 'center',}}>
         <TouchableOpacity
-            onPress={()=>{}}
+            onPress={this.takePicture.bind(this)}
             style = {styles.capture}
         >
             <Text style={{fontSize: 14}}> SNAP </Text>
