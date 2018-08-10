@@ -23,8 +23,8 @@ export default class App extends React.Component {
       try{
 
       const tfImageRecognition = new TfImageRecognition({
-        model: require('./assets/retrained-graph.pb'),
-        labels: require('./assets/retrained-labels.txt')
+        model: require('./retrained-graph.pb'),
+        labels: require('./retrained-labels.txt')
       })
 
       this.setState({status: "training completed"})
@@ -36,6 +36,8 @@ export default class App extends React.Component {
       this.setState({status: "image recognized"})
 
       alert(results[0].name)
+
+
       await tfImageRecognition.close()
     }catch(err){
       alert(err)
