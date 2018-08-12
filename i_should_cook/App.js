@@ -11,6 +11,28 @@ export default class App extends React.Component {
     this.state={data:['a', 'b','c','d'], extraData:false, status : "init"}
   }  
 
+  componentDidMount(){
+
+    try{
+
+      const tfImageRecognition = new TfImageRecognition({
+        model: require('./retrained-graph.pb'),
+        labels: require('./retrained-labels.txt')
+      })
+
+      this.setState({classifier: tfImageRecognition, status: "training completed"})
+    
+    }catch(err){
+      alert(err)
+    }
+
+  }
+
+  async componentWillUnmount(){
+
+    await this.state.classifier.close()
+
+  }
   
 
   async takePicture() {
@@ -18,27 +40,18 @@ export default class App extends React.Component {
       const options = { quality: 0.5, base64: true };
       const data = await this.camera.takePictureAsync(options)
 
-      this.setState({status: "pic processed"})
+      this.setState({status: "image captured"})
 
-      try{
+      try{     
 
-      const tfImageRecognition = new TfImageRecognition({
-        model: require('./retrained-graph.pb'),
-        labels: require('./retrained-labels.txt')
-      })
-
-      this.setState({status: "training completed"})
-
-      const results = await tfImageRecognition.recognize({
+      const results = await this.state.classifier.recognize({
         image: require('./tomato.png')
       })
 
       this.setState({status: "image recognized"})
 
       alert(results[0].name)
-
-
-      await tfImageRecognition.close()
+      
     }catch(err){
       alert(err)
     }
