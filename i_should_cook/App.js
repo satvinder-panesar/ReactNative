@@ -45,7 +45,7 @@ export default class App extends React.Component {
       try{     
 
       const results = await this.state.classifier.recognize({
-        image: require('./tomato.png')
+        image: data.uri
       })
 
       this.setState({status: "image recognized"})
