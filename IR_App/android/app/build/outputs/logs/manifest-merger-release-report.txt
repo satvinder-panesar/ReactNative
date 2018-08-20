@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/778afb64a7310a7586a650e8bdc708a9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/a2c498847e5d19c4a4bca0494676a05a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f72ca56a816a6c95f6bf6b2fe7b5372/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/d7601bb24e7a4b21b3615d1d94a83a7b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e62c9ced70a981d959bad394f553c4bf/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/7b2b7d6a4dca9fcf49ae61cae90493b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/62608ebddfeee946867039f3d75c31c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/423868a0e29b725fe430369871b88db6/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/acced6cab482ed40ea6c92e53f4d5c15/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/0754601d2a93e66beb7ed4838c039b57/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/ca7843ec065b4c09b2578b7068a9dc6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/1e8ae9737b4a618ae70e36e63c9d526f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/88cd10453d926ac963320c8aab9f86e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/04deab499c127e6716e8a848d58b7e51/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be6ce259a5281254aa4d9cf8997bcf60/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d53be77fecb03937a896084bc428e2e6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/96172a51f97fdba5db40c8170eb6abc9/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/778afb64a7310a7586a650e8bdc708a9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/778afb64a7310a7586a650e8bdc708a9/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/a2c498847e5d19c4a4bca0494676a05a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/a2c498847e5d19c4a4bca0494676a05a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f72ca56a816a6c95f6bf6b2fe7b5372/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f72ca56a816a6c95f6bf6b2fe7b5372/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/d7601bb24e7a4b21b3615d1d94a83a7b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/d7601bb24e7a4b21b3615d1d94a83a7b/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/423868a0e29b725fe430369871b88db6/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/423868a0e29b725fe430369871b88db6/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/acced6cab482ed40ea6c92e53f4d5c15/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/acced6cab482ed40ea6c92e53f4d5c15/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/0754601d2a93e66beb7ed4838c039b57/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/0754601d2a93e66beb7ed4838c039b57/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/ca7843ec065b4c09b2578b7068a9dc6c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/ca7843ec065b4c09b2578b7068a9dc6c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/1e8ae9737b4a618ae70e36e63c9d526f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/1e8ae9737b4a618ae70e36e63c9d526f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/96172a51f97fdba5db40c8170eb6abc9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/96172a51f97fdba5db40c8170eb6abc9/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.camera_demo.MainActivity
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/778afb64a7310a7586a650e8bdc708a9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/778afb64a7310a7586a650e8bdc708a9/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/ebf54eda0b1e9bf0f5165cb0bb5eadc0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/a2c498847e5d19c4a4bca0494676a05a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/a2c498847e5d19c4a4bca0494676a05a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f72ca56a816a6c95f6bf6b2fe7b5372/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/3f72ca56a816a6c95f6bf6b2fe7b5372/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/d7601bb24e7a4b21b3615d1d94a83a7b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/d7601bb24e7a4b21b3615d1d94a83a7b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e62c9ced70a981d959bad394f553c4bf/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e62c9ced70a981d959bad394f553c4bf/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/7b2b7d6a4dca9fcf49ae61cae90493b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/7b2b7d6a4dca9fcf49ae61cae90493b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/62608ebddfeee946867039f3d75c31c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/62608ebddfeee946867039f3d75c31c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/423868a0e29b725fe430369871b88db6/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/423868a0e29b725fe430369871b88db6/AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/0754601d2a93e66beb7ed4838c039b57/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/0754601d2a93e66beb7ed4838c039b57/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/ca7843ec065b4c09b2578b7068a9dc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/ca7843ec065b4c09b2578b7068a9dc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/1e8ae9737b4a618ae70e36e63c9d526f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/1e8ae9737b4a618ae70e36e63c9d526f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/88cd10453d926ac963320c8aab9f86e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/88cd10453d926ac963320c8aab9f86e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/04deab499c127e6716e8a848d58b7e51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/04deab499c127e6716e8a848d58b7e51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be6ce259a5281254aa4d9cf8997bcf60/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be6ce259a5281254aa4d9cf8997bcf60/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d53be77fecb03937a896084bc428e2e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d53be77fecb03937a896084bc428e2e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/96172a51f97fdba5db40c8170eb6abc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/96172a51f97fdba5db40c8170eb6abc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:15:9-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/edd235add054f42534d853080cdd3561/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c1ecac4bfeef9b9906039ce47cd492c5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8958f501d193e2f00426efa27b3a2fd4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3335a069d23b93d0117375741124b6bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d0d4cac587ab85c61b7c21c731151609/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2ee0643f451ff64d575c7a2e83102a8a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2bbff30f2ef17d4aae88300c4b963d84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e78ea0a9ffb42a6a02ba6d1524dbb3c3/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:exifinterface:26.1.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/be995bbffc8b91a59c047889cfd3ea43/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/56e2e6fb25c1b1bf9d5481c0eb6ff135/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/04befd3f4307a298aa39175337d5b2c5/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/122bb4e1533085e247468e908cce96af/AndroidManifest.xml:26:13-58

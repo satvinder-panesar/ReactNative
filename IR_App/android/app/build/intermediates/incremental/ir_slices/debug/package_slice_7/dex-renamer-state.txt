@@ -1,0 +1,4 @@
+#Mon Aug 20 12:25:45 EDT 2018
+base.0=/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
