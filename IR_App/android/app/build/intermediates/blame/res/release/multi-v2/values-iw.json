@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/IR_App/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/res/values-iw/values-iw.xml",

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/src/release/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/IR_App/android/app/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/IR_App/android/app/src/release/jniLibs"/></dataSet></merger>
