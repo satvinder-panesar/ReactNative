@@ -1,8 +1,35 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import { RNCamera } from 'react-native-camera';
+import { TfImageRecognition } from 'react-native-tensorflow';
 
 export default class App extends React.Component {
+
+  constructor(){
+    super()
+    this.classifier = null;
+    this.state={status: "init"}
+  }
+
+  trainClassifier(){
+
+    this.classifier = new TfImageRecognition({
+      model:require('./tensorflow_inception_graph.pb'),
+      labels: require('./tensorflow_labels.txt')
+    })
+
+    this.setState({status: "trained now"})   
+
+  }
+
+  componentDidMount(){
+    this.trainClassifier()
+  }
+
+  async componentWillUnmount(){
+    await tfImageRecognition.close()
+  }
+
   render() {
     return (
       <View style={styles.container}>
@@ -23,6 +50,7 @@ export default class App extends React.Component {
         >
             <Text style={{fontSize: 14}}> SNAP </Text>
         </TouchableOpacity>
+        <Text>{this.state.status}</Text>
         </View>
       </View>
     );
