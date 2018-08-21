@@ -1,31 +1,39 @@
 [
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_popup_enter.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_in.xml",
         "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\c7d9bf2e6d0a1c7f442ef2bd4505be80\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
+        "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_popup_exit.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_fade_out.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_in.xml",
@@ -33,23 +41,15 @@
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_up.xml",
         "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\c7d9bf2e6d0a1c7f442ef2bd4505be80\\res\\anim\\catalyst_slide_up.xml"
     },
     {
-        "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_enter.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\tooltip_enter.xml"
-    },
-    {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_out.xml",
         "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\c7d9bf2e6d0a1c7f442ef2bd4505be80\\res\\anim\\catalyst_push_up_out.xml"
-    },
-    {
-        "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_exit.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\tooltip_exit.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_out.xml",
@@ -57,7 +57,7 @@
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_slide_in_top.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_down.xml",
@@ -65,10 +65,10 @@
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76dc598695c41d2f1f73ce18e3f981cd\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\222b13b8f3e0150c7d865c0443b64719\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

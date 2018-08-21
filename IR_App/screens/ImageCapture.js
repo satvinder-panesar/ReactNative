@@ -8,15 +8,32 @@ export default class ImageCapture extends React.Component {
   constructor(){
     super()
     this.classifier = null;
+    this.takePicture = this.takePicture.bind(this)
+    this.state = {status: "init"}
   }
 
-  trainClassifier(){
+  async trainClassifier(){
 
-    // this.classifier = new TfImageRecognition({
-    //   model:require('./tensorflow_inception_graph.pb'),
-    //   labels: require('./tensorflow_labels.txt')
-    // })
+    this.classifier = await new TfImageRecognition({
+    model:require('../assets/tensorflow_inception_graph.pb'),
+    labels: require('../assets/tensorflow_labels.txt')
+    })
+
+    this.setState({status: "Training completed"})
  
+
+  }
+
+  async takePicture(){
+
+    const options = { quality: 0.5, base64: true };
+    const data = await this.camera.takePictureAsync(options)
+
+    const results = await this.classifier.recognize({
+        image: data.uri
+      })
+
+    this.setState({status: results[0].name})
 
   }
 
@@ -25,7 +42,7 @@ export default class ImageCapture extends React.Component {
   }
 
   async componentWillUnmount(){
-    //await tfImageRecognition.close()
+    await tfImageRecognition.close()
   }
 
   render() {
@@ -41,14 +58,16 @@ export default class ImageCapture extends React.Component {
             permissionDialogTitle={'Permission to use camera'}
             permissionDialogMessage={'We need your permission to use your camera phone'}
         />
-        <View style={{flex: 0, flexDirection: 'row', justifyContent: 'center',}}>
+         <View style={{flex: 1, flexDirection: 'column', justifyContent: 'center',}}>
         <TouchableOpacity
-            onPress={()=>{}}
+            onPress={this.takePicture}
             style = {styles.capture}
         >
             <Text style={{fontSize: 14}}> CAPTURE </Text>
         </TouchableOpacity>
+        <Text style={styles.app_status}>{this.state.status}</Text>
         </View>
+       
       </View>
     );
   }
@@ -61,17 +80,22 @@ const styles = StyleSheet.create({
     backgroundColor: 'black'
   },
   preview: {
-    flex: 1,
+    flex: 4,
     justifyContent: 'flex-end',
     alignItems: 'center'
   },
   capture: {
-    flex: 0,
+    flex: 1,
     backgroundColor: '#fff',
     borderRadius: 5,
     padding: 15,
     paddingHorizontal: 20,
     alignSelf: 'center',
     margin: 20
+  },
+  app_status: {
+    flex:1,
+    color: 'white',
+    alignSelf: 'center'
   }
 });
