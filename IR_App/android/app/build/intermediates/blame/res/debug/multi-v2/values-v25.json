@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/camera_demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "C:\\repo-github\\ReactNative\\IR_App\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "/Users/satvindersinghpanesar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/73cf85a8cbab3972a4a5ac1c2fa3c7ef/res/values-v25/values-v25.xml",
+                    "source": "C:\\Users\\Satvinder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c05a03c9d0d9a6dbaae944085f50079d\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

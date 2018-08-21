@@ -1,4 +1,0 @@
-#Mon Aug 20 12:54:40 EDT 2018
-base.0=/Users/satvindersinghpanesar/Documents/GitHub/ReactNative/IR_App/android/app/build/intermediates/transforms/dexMerger/release/0
-renamed.0=classes.dex
-path.0=classes.dex
