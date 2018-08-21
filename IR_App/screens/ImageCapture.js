@@ -15,8 +15,8 @@ export default class ImageCapture extends React.Component {
   async trainClassifier(){
 
     this.classifier = await new TfImageRecognition({
-    model:require('../assets/tensorflow_inception_graph.pb'),
-    labels: require('../assets/tensorflow_labels.txt')
+    model:'file://tensorflow_inception_graph.pb',
+    labels: 'file://tensorflow_labels.txt'
     })
 
     this.setState({status: "Training completed"})
